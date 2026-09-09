@@ -17,6 +17,8 @@ Set de 8 skills basadas en certificaciones Certiprof, escritas para que Claude l
 
 Cada carpeta tiene un `SKILL.md` (frontmatter con `name` + `description`, que es lo que activa la skill) y una carpeta `references/` con el resumen del temario oficial.
 
+Documentación detallada de cada skill (qué es, cuándo se activa, conceptos clave): [`docs/SKILLS.md`](docs/SKILLS.md).
+
 ## Cómo instalarlas
 
 **Claude.ai / Claude Desktop (Cowork):** copiar cada carpeta de skill dentro de tu directorio de skills de usuario (`/mnt/skills/user/` en el entorno, o donde tu organización configure el catálogo de skills).
